@@ -9,3 +9,7 @@ Para manter a comunidade acolhedora, todas as pessoas participantes concordam em
 
 Situações que violem este código podem ser reportadas pela organização (veja
 [contato.md](contato.md)).
+
+## Dúvidas
+
+Caso tenha dúvidas sobre este código de conduta, entre em contato com a organização por meio das informações disponíveis em `contato.md`.
