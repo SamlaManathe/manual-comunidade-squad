@@ -6,7 +6,7 @@ escrever nenhuma linha de código de programação.
 
 ## Índice
 
-- [Sobre a comunidade](sobre.md)
+- [Sobre](sobre.md)
 - [Perguntas frequentes (FAQ)](faq.md)
 - [Como entrar em contato](contato.md)
 - [Código de conduta](codigo-de-conduta.md)
